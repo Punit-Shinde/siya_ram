@@ -1,0 +1,225 @@
+export const menu = [
+  {
+    name: "Dry Manchurian",
+    half: 50,
+    full: 70,
+    category: "Manchurian",
+  },
+  {
+    name: "Gravy Manchurian",
+    half: 50,
+    full: 70,
+    category: "Manchurian",
+  },
+  {
+    name: "Cryspi Manchurian",
+    half: 50,
+    full: 70,
+    category: "Manchurian",
+  },
+  {
+    name: "Paneer Manchurian",
+    half: 50,
+    full: 70,
+    category: "Manchurian",
+  },
+
+  {
+    name: "Plain Noodles",
+    half: 40,
+    full: 60,
+    category: "Noodles",
+  },
+  {
+    name: "Manchurian Noodles",
+    half: 50,
+    full: 70,
+    category: "Noodles",
+  },
+  {
+    name: "Hakka Noodles",
+    half: 50,
+    full: 70,
+    category: "Noodles",
+  },
+  {
+    name: "Crispy Noodles",
+    half: 50,
+    full: 70,
+    category: "Noodles",
+  },
+  {
+    name: "Schezwan Noodles",
+    half: 50,
+    full: 70,
+    category: "Noodles",
+  },
+  {
+    name: "Mix Comby",
+    half: 50,
+    full: 70,
+    category: "Noodles",
+  },
+  {
+    name: "Veg Biryani",
+    full: 80,
+    category: "Rice",
+  },
+  {
+    name: "Fried Rice",
+    half: 40,
+    full: 60,
+    category: "Rice",
+  },
+  {
+    name: "Manchurian Rice",
+    half: 50,
+    full: 70,
+    category: "Rice",
+  },
+  {
+    name: "Paneer Rice",
+    half: 60,
+    full: 80,
+    category: "Rice",
+  },
+  {
+    name: "Schezwan Rice",
+    half: 50,
+    full: 70,
+    category: "Rice",
+  },
+  {
+    name: "Veg Sandwich",
+    price: 60,
+    category: "Sandwich",
+  },
+  {
+    name: "Veg Cheese Sandwich",
+    price: 70,
+    category: "Sandwich",
+  },
+  {
+    name: "Jain Sandwich",
+    price: 70,
+    category: "Sandwich",
+  },
+  {
+    name: "Paneer Cheese Sandwich",
+    price: 80,
+    category: "Sandwich",
+  },
+  {
+    name: "Butter Cheese Sandwich",
+    price: 80,
+    category: "Sandwich",
+  },
+  {
+    name: "Aloo Tikki Burger",
+    price: 80,
+    category: "Burger",
+  },
+  {
+    name: "Veg Cheese Burger",
+    price: 100,
+    category: "Burger",
+  },
+  {
+    name: "Plain Maggi",
+    price: 40,
+    category: "Maggi",
+  },
+  {
+    name: "Veg Maggi",
+    price: 50,
+    category: "Maggi",
+  },
+  {
+    name: "Massala Maggi",
+    price: 60,
+    category: "Maggi",
+  },
+  {
+    name: "Cheese Maggi",
+    price: 50,
+    category: "Maggi",
+  },
+  {
+    name: "Veg Cheese Maggi",
+    price: 60,
+    category: "Maggi",
+  },
+  {
+    name: "Paneer Cheese Maggi",
+    price: 70,
+    category: "Maggi",
+  },
+  {
+    name: "Plain Pasta",
+    price: 40,
+    category: "Pasta",
+  },
+  {
+    name: "Veg Pasta",
+    price: 50,
+    category: "Pasta",
+  },
+  {
+    name: "Cheese Pasta",
+    price: 60,
+    category: "Pasta",
+  },
+  {
+    name: "Veg Cheese Pasta",
+    price: 70,
+    category: "Pasta",
+  },
+  {
+    name: "White Sause Pasta",
+    price: 100,
+    category: "Pasta",
+  },
+  {
+    name: "Red Sause Pasta",
+    price: 90,
+    category: "Pasta",
+  },
+  {
+    name: "Aloo Paratha",
+    onePiece: 30,
+    twoPiece: 50,
+    category: "Paratha",
+  },
+  {
+    name: "Paneer Paratha",
+    onePiece: 40,
+    twoPiece: 70,
+    category: "Paratha",
+  },
+  {
+    name: "Gobhi Paratha",
+    onePiece: 30,
+    twoPiece: 60,
+    category: "Paratha",
+  },
+  {
+    name: "Plain French Fries",
+    price: 60,
+    category: "French Fries",
+  },
+  {
+    name: "Peri Peri French Fries",
+    price: 80,
+    category: "French Fries",
+  },
+  {
+    name: "Chhole Bhature",
+    price: 70,
+    category: "SR Special",
+  },
+  {
+    name: "Dry Manchurian + Fried Rice + Cold Coffee",
+    price: 179,
+    category: "SR Special",
+  },
+];
