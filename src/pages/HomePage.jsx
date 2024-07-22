@@ -14,11 +14,14 @@ const HomePage = () => {
 
   return (
     <div className="w-full">
-      <div className="flex-col flex-no-wrap fixed top-0 z-10 flex w-full h-[18%] items-center justify-between bg-[#001D3D] py-2 select-none">
+      <div className="flex-col flex-no-wrap fixed top-0 z-10 flex w-full  items-center justify-between bg-[#001D3D] py-2 select-none">
         <NavBar />
+        <h2 className="text-2xl text-primary w-full border-b-2 border-primary px-2">
+          Menu
+        </h2>
         <FilterBar setSelectedCategory={setSelectedCategory} />
       </div>
-      <div className="content pt-[30%] ">
+      <div className="content pt-[45%] ">
         {filteredMenu.map((item) => (
           <Card
             key={item.name}

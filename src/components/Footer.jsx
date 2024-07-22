@@ -24,8 +24,8 @@ const Footer = () => {
 
         <h1 className="px-2 text-sm  ">
           Design & developed by{" "}
-          <span className="text-primary">Punit Shinde</span> with 💝 contact for
-          similiar websites or apps{" "}
+          <span className="text-primary">Punit Shinde</span> with 💝, message me on <a href="https://www.instagram.com/punit__shinde/" className="underline text-blue-400">instagram</a> for
+          similiar websites or apps,
         </h1>
         <a href="https://www.instagram.com/punit__shinde/">
           <img src={insta} alt="instagram link" className="w-12 m-2 animate-bounce" />

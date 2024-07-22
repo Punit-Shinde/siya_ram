@@ -23,7 +23,7 @@ const FilterBar = ({ setSelectedCategory }) => {
   };
 
   return (
-    <div className="text-white w-[90%] h-48 flex text-nowrap gap-12 overflow-x-auto p-5 mx-5">
+    <div className="text-white w-[90%] mb-0 flex text-nowrap gap-12 overflow-x-auto  mx-5 py-2">
       {categories.map((category) => (
         <h3
           key={category}
