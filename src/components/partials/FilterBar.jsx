@@ -1,5 +1,3 @@
-// src/components/partials/FilterBar.js
-
 import React, { useState } from "react";
 
 const FilterBar = ({ setSelectedCategory }) => {
