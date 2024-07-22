@@ -42,7 +42,7 @@ const Card = ({ name, half, full, onePiece, twoPiece, price, category }) => {
         )}
       </div>
       {/* <h6>{category}</h6> */}
-      <IoAddCircle className="absolute flex bottom-0 right-0 text-3xl text-[#001D3D]" />
+    {/*  <IoAddCircle className="absolute flex bottom-0 right-0 text-3xl text-[#001D3D]" /> */}
     </div>
   );
 };
