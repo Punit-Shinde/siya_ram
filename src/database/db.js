@@ -62,7 +62,7 @@ export const menu = [
   },
   {
     name: "Veg Biryani",
-    full: 80,
+    price: 80,
     category: "Rice",
   },
   {
